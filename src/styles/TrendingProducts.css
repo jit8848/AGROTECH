@@ -1,0 +1,12 @@
+.trending-products {
+    padding: 20px;
+    background-color: #f8f8f8;
+  }
+  
+  .products {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+  
